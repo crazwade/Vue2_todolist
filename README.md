@@ -7,8 +7,9 @@
 
 待辦清單
 
-    * (操作) 新增 / 刪除 / 修改 / 更改狀態
-![](![image](https://user-images.githubusercontent.com/31063679/172515066-76e394d6-07db-47f1-8566-b4b6bc02ff81.png))
+    * (操作) 新增 / 刪除 / 修改 / 更改狀態)
+    ![image](https://user-images.githubusercontent.com/31063679/172515230-e645da5c-8e25-4882-a203-bd6f758e3c7c.png)
+
 
     
 # 2. 功能規格說明
