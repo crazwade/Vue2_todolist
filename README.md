@@ -15,17 +15,10 @@
     
 # 2. 功能規格說明
 
-## 2.1 Json 資料格式
+## 2.1 資料格式 Object
 
-### User
-```json
-{
-    "account": "jacky",
-    "pwd": "12345678"
-}
-```
 ### Todolist
-```data
+```json
 todolist: [
       {
         id: 0,
